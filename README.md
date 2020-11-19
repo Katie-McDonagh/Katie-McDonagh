@@ -19,7 +19,7 @@
 <br>
 <div>
 
-I am an enthusiastic and driven Full Stack Developer, looking for opportunities to continue learning, and opperutinites to solve realworld problems, and help buisnesses be as productive as they can be. and making useful apps for buinsesses to enjoy. After many years working in the coffee industry I am excited to bring my skills and enthusiam into the world of tech. I am looking for work and based in London, however would be willing to reclocate anywhere near a beach with good surf.
+I am a junior full stack software developer, looking for opportunities to continue learning and solve real-world problems, by making tools to help businesses run as efficiently as possible. After 7 years in the coffee industry fixing machines, teaching classes and slinging lattes I decided it was time for a change, I turned from improving peoples productivity with caffeine to improving their businesses productivity with code. I am ready for my next chapter, preferably in London, but would consider moving anywhere with good surf :surfer:
 
 **Tech Skills**: Ruby, Rails, Sinatra, Node.js, Express, HTML, CSS, JavaScript, jQuery, PostgreSQL, React, RSpec, Jasmine, Jest. python pytest unittest gatsby graphQL
 

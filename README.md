@@ -19,9 +19,9 @@
 <br>
 <div>
 
-I am an enthusiastic and driven Full Stack Developer, looking for opportunities to continue learning, and making useful apps for consumers to enjoy. After many years working in the coffee industry I am excited to bring my previous experiences into the world of tech.
+I am an enthusiastic and driven Full Stack Developer, looking for opportunities to continue learning, and opperutinites to solve realworld problems, and help buisnesses be as productive as they can be. and making useful apps for buinsesses to enjoy. After many years working in the coffee industry I am excited to bring my skills and enthusiam into the world of tech. I am looking for work and based in London, however would be willing to reclocate anywhere near a beach with good surf.
 
-**Tech Skills**: Ruby, Rails, Sinatra, Node.js, Express, HTML, CSS, JavaScript, jQuery, PostgreSQL, React, RSpec, Jasmine, Jest.
+**Tech Skills**: Ruby, Rails, Sinatra, Node.js, Express, HTML, CSS, JavaScript, jQuery, PostgreSQL, React, RSpec, Jasmine, Jest. python pytest unittest gatsby graphQL
 
 </div>
 
@@ -107,6 +107,6 @@ BA in Journalism and English (2:1)
  - Restoring old anolog cameras
  - Reading 
  - All things coffee
- - Meditation
+ - All things Acient History
  - Writing film articles
  - Surfing whenever I get get near a beach 

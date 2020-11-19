@@ -112,20 +112,20 @@ I am a junior full stack software developer, looking for opportunities to contin
   </tbody>
 </table>
 
-<h2 align="center" >Skills</h2>
+<h2 align="center" >I am:</h2>
 
-### Problem Solving
+### A Problem Solver
 
 From figuring out why a coffee machine didn’t work to helping a customer struggling in a training class, I quickly developed my problem solving skills, approaching them with an inquisitive and growth mindset allowed me to see the issue calmly and clearly, whilst making a plan to solve it.
 At Makers I continued to hone this skill,  using techniques to tighten the loop to find bugs and breaking down a seemingly impossible problem into manageable chunks.
 
 
-### Great Collaborator
+### A Great Collaborator
 
 I understand Teamwork and open communication is vital in all team settings, whether it’s actively listening and following others expectations and ideas, or putting my own forward in a new team setting, I can effectively contribute to team goals as well as helping others set theirs and helping them stay on track.
 This transferred to programming, pushing for an agile approach to workflow, allowed me to harmoniously collaborate within a group/pair setting, It also helped me Mentor a student from a later cohort, offering guidance and support as they needed it throughout their journey.
 
-### Fast Learner
+### A Fast Learner 
 
 I learn and apply new concepts quickly and effectively, by understanding my blind spots in a new situation, knowing when to ask for help, and understanding how I learn most effectively.
 After being promoted at Allpress to Retail Manager/Coffee Trainer, it was a brand new role I had to carve out for myself, after having limited experience I  created and lead coffee classes,  transferred this into a formula for informal which we rolled out to use at events and  festivals  around the UK, both by myself and training others to lead these classes.

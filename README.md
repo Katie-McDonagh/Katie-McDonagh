@@ -21,8 +21,6 @@
 
 I am a junior full stack software developer, looking for opportunities to continue learning and solve real-world problems, by making tools to help businesses run as efficiently as possible. After 7 years in the coffee industry fixing machines, teaching classes and slinging lattes I decided it was time for a change, I turned from improving peoples productivity with caffeine to improving their businesses productivity with code. I am ready for my next chapter, preferably in London, but would consider moving anywhere with good surf :surfer:
 
-**Tech Skills**: JavaScript, Python, Ruby, HTML, CSS, React, Redux, Gatsby, Rails, Node.js, Express, PostgreSQL, graphQL, Rspec, Jest, Jasmine, Pytest, Unittest
-
 </div>
 
 <h2 align="center">Projects</h2>
@@ -33,6 +31,86 @@ I am a junior full stack software developer, looking for opportunities to contin
 |[ Vim Bishop's Bike Adventures (back end) ](https://github.com/Katie-McDonagh/invimcible_back_end)| This is the back end of the project, we created a tile matrix for each level to be passed to the front end | Express, Node, Heroku, Jest, Enzyme | [See the tiles](https://github.com/Katie-McDonagh/invimcible_back_end) 
 |[ Acebook ]( https://github.com/Katie-McDonagh/acebook-bits-please)| This is a social media clone, it allows users to sign up, talk to each other, and upload photos | Ruby on Rails, RSpec, HTML, CSS, Bootstrap |  |
 |[ Bank tech Test ](https://github.com/Katie-McDonagh/bank_tech_test_ruby) | This is a repl run app which mimic's a bank account, writen with a strict TDD appraoch | Ruby, RSpec, Rubocop | |
+
+## Tech Skills
+
+<table>
+  <thead>
+    <tr>
+      <th>Languages</th>
+      <th>Technologies</th>
+      <th>Testing Frameworks</th>
+      <th>Concepts</th>
+      <th>Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="vertical-align: top">
+        <ul>
+          <li>Python</li>
+          <li>Ruby</li>
+          <li>JavaScript</li>
+          <li>HTML5</li>
+          <li>CSS3</li>
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>Django</li>
+          <li>Rails</li>
+          <li>Sinatra</li>
+          <li>Node.js</li>
+          <li>Express</li>
+          <li>jQuery</li>
+          <li>React</li>
+          <li>Redux</li>
+          <li>PostgreSQL</li>
+          <li>TravisCI</li>
+          <li>Heroku</li>
+          <li>Surge</li>
+          <li>Netlify</li>
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>RSpec</li>
+          <li>Capybara</li>
+          <li>Jasmine</li>
+          <li>Jest</li>
+          <li>Enzyme</li>
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>XP/Agile methodology</li>
+          <li>TDD/BDD</li>
+          <li>Object-Oriented Design</li>
+          <li>Remote working</li>
+          <li>Pair programming</li>
+          <li>Continuous Integration & Deployment</li>
+          <li>Git workflow</li>
+          <li>Code review</li>
+          <li>MVC Pattern</li>
+          <li>RESTful APIs</li>
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>VSCode</li>
+          <li>Atom</li>
+          <li>Git</li>
+          <li>Figma</li>
+          <li>Adobe Photoshop</li>
+          <li>Adobe Illustrator</li>
+          <li>Adobe InDesign</li>
+          <li>Linux (Ubuntu, Kali)</li>
+          <li>OSx</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <h2 align="center" >Skills</h2>
 

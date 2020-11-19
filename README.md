@@ -180,11 +180,9 @@ BA in Journalism and English (2:1)
 - Self employed: contracted to work in different cafes around London
 - Machine repairs/ set up take down at events
 
-<h2 align="center">Hobbies</h2>
+<h2 align="center">When I'm not coding you can usually find me</h2>
 
  - Restoring old anolog cameras
- - Reading 
- - All things coffee
- - All things Acient History
+ - researching all things Acient History
  - Writing film articles
- - Surfing whenever I get get near a beach 
+ - Surfing, whenever I get get near a beach 

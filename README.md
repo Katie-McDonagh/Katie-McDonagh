@@ -10,7 +10,7 @@
 </div>
 <br>
 
-<h4 align="center">*Coffee obsessive turned TDD and clean code enthusiast.*</h4>
+<h5 align="center">Coffee obsessive turned TDD and clean code enthusiast.</h5>
 
 Hello im Katie, a full stack junior developer, looking for opportunities in the productivity tools and tech consulting space. My mission is to design and implement clever solutions that elevate a company's productivity.
 

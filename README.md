@@ -9,17 +9,12 @@
 [Projects](#Projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies) | [LinkedIn](https://www.linkedin.com/in/katie-mcdonagh-b436011b4/)
 </div>
 <br>
-<div align="center">
-<a href="https://sourcerer.io/katie-mcdonagh"><img src="https://img.shields.io/badge/Ruby-343%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/katie-mcdonagh"><img src="https://img.shields.io/badge/JavaScript-210%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/katie-mcdonagh"><img src="https://img.shields.io/badge/CSS-161%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/katie-mcdonagh"><img src="https://img.shields.io/badge/HTML-127%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/katie-mcdonagh"><img src="https://img.shields.io/badge/SQL-46%20commits-orange.svg" alt=""></a>
-</div>
-<br>
-<div>
 
-I am a junior full stack software developer, looking for opportunities to continue learning and solve real-world problems, by making tools to help businesses run as efficiently as possible. After 7 years in the coffee industry fixing machines, teaching classes and slinging lattes I decided it was time for a change, I turned from improving peoples productivity with caffeine to improving their businesses productivity with code. I am ready for my next chapter, preferably in London, but would consider moving anywhere with good surf :surfer:
+Coffee obsessive turned TDD and clean code enthusiast.
+
+Hello im Katie, a full stack junior developer, looking for opportunities in the productivity tools and tech consulting space. My mission is to design and implement clever solutions that elevate a company's productivity.
+
+After 7 years fixing coffee machines, teaching classes and slinging lattes, I am ready to fuel productivity with clever code instead of caffeine, currently based in London, but would consider moving anywhere with good surf. :surfer:
 
 </div>
 
@@ -112,23 +107,23 @@ I am a junior full stack software developer, looking for opportunities to contin
   </tbody>
 </table>
 
-<h2 align="center" >I am:</h2>
+<h2 align="center" >I am</h2>
 
 ### A Problem Solver
 
-From figuring out why a coffee machine didn’t work to helping a customer struggling in a training class, I quickly developed my problem solving skills, approaching them with an inquisitive and growth mindset allowed me to see the issue calmly and clearly, whilst making a plan to solve it.
+From fixing coffee machines to guiding customers in a training class, I can think on my feet, approaching problems with a methodical and inquisitive and mindset alloweing me to keep my cool whilst making a solid plan to solve it.
 At Makers I continued to hone this skill,  using techniques to tighten the loop to find bugs and breaking down a seemingly impossible problem into manageable chunks.
 
 
 ### A Great Collaborator
 
-I understand Teamwork and open communication is vital in all team settings, whether it’s actively listening and following others expectations and ideas, or putting my own forward in a new team setting, I can effectively contribute to team goals as well as helping others set theirs and helping them stay on track.
+I understand Teamwork and open communication is vital in all team settings, whether it’s actively listening and following others expectations and ideas, or putting my own forward in a new team setting, I can effectively contribute to team goals as well as helping theirs others stay on track.
 This transferred to programming, pushing for an agile approach to workflow, allowed me to harmoniously collaborate within a group/pair setting, It also helped me Mentor a student from a later cohort, offering guidance and support as they needed it throughout their journey.
 
 ### A Fast Learner 
 
 I learn and apply new concepts quickly and effectively, by understanding my blind spots in a new situation, knowing when to ask for help, and understanding how I learn most effectively.
-After being promoted at Allpress to Retail Manager/Coffee Trainer, it was a brand new role I had to carve out for myself, after having limited experience I  created and lead coffee classes,  transferred this into a formula for informal which we rolled out to use at events and  festivals  around the UK, both by myself and training others to lead these classes.
+After being promoted at Allpress to Retail Manager/Coffee Trainer, after having relatively little experience training I  created and lead coffee classes,  transferred this into a formula we rolled out at events and festivals around the UK, both by myself and training others to lead these classes.
 
 <h2 align="center">Education</h2>
 
@@ -165,8 +160,8 @@ BA in Journalism and English (2:1)
 **Trainer / Retail Manager** Allpress Espresso (2017-2018)
 
 - Create and Lead coffee classes for the general public
-- Pick and launch new coffees monthly / communicate/train on new coffees for all 50 UK staff / create printed and online materials for launch / collabs
-- Create and Organise collabs with other UK makers 
+- Overseeing monthly coffee launches, by communicating with all 50 UK staff, and creating printed and online materials for our customers
+- Organise collabs with other comapnies to sell their goods in our cafes
 - Quality control all Allpress UK coffee
 
 **Cafe Manager** Allpress Espresso (2015 – 2017)

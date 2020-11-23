@@ -27,7 +27,7 @@ After 7 years fixing coffee machines, teaching classes and slinging lattes, I am
 |[ Acebook ]( https://github.com/Katie-McDonagh/acebook-bits-please)| This is a social media clone, it allows users to sign up, talk to each other, and upload photos | Ruby on Rails, RSpec, HTML, CSS, Bootstrap |  |
 |[ Bank tech Test ](https://github.com/Katie-McDonagh/bank_tech_test_ruby) | This is a repl run app which mimic's a bank account, writen with a strict TDD appraoch | Ruby, RSpec, Rubocop | |
 
-## Tech Skills
+<h2 align="center">Tech Skills</h2>
 
 <table>
   <thead>
